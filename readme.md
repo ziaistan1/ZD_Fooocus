@@ -66,7 +66,7 @@ Please open an issue if you use similar devices but still cannot achieve accepta
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/colab.ipynb) | Fooocus Colab (Official Version)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdQff4aps_YzyNI9uuZvaocGfcoha6uB?usp=sharing) | Fooocus Colab (Official Version)
 
 Thanks to [camenduru](https://github.com/camenduru)!
 
